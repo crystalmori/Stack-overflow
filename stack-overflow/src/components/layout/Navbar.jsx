@@ -36,7 +36,7 @@ Navbar.defaultProps = {
     title: 'Stack Overflow',
 }
 
-Navbar.PropTypes = {
+Navbar.propTypes = {
     title: PropTypes.string,
 }
 
